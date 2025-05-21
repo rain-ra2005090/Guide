@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "image": "assets/images/img1.png",
+      "description": "A group of fourteen dogs is sitting and lying down on a grassy hill"
+    },
+    {
+      "id": 2,
+      "image": "assets/images/img2.png",
+      "description": "A colorful market street with fresh produce and people walking."
+    },
+    {
+      "id": 3,
+      "image": "assets/images/img3.png",
+      "description": "This image depicts a small medical waiting area where a healthcare professional is examining a patient."
+    },
+    {
+      "id": 4,
+      "image": "assets/images/img4.png",
+      "description": "This image shows children in a classroom engaged in various creative activities. Several students sit around a large wooden table, working on crafts such as painting, coloring, and cutting shapes out of paper. One boy wears an artist’s apron as he paints on an easel. A teacher stands off to the side, talking to a small group of students, while another adult nearby holds a clipboard and observes. The room features bright natural light from a window, classroom decorations like alphabet charts and a wall clock, and art supplies scattered across the tables, suggesting a fun, art-focused lesson"
+    },
+    {
+      "id": 5,
+      "image": "assets/images/img5.png",
+      "description": "A busy city street at night with bright neon signs."
+    },
+    {
+      "id": 6,
+      "image": "assets/images/img6.png",
+      "description": "This illustration shows a modern airport terminal with large windows and travelers waiting."
+    },
+    {
+      "id": 7,
+      "image": "assets/images/img7.png",
+      "description": "This image shows a cozy picnic scene with a red, checkered blanket spread on the grass. A wicker picnic basket holds bread, fruit, and flowers, while smaller baskets contain additional treats. Two white mugs rest on a small wooden board, ready for a warm drink. Gentle sunlight bathes the setting, creating a tranquil atmosphere for outdoor dining."
+    }
+  
+]
+  

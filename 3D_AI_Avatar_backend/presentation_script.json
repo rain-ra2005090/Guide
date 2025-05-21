@@ -1,0 +1,45 @@
+{
+ "What problems are we trying to solve?": 
+  "We're addressing a critical disconnect between the digital generation and cultural heritage. Traditions like falconry, calligraphy, and oral storytelling are fading—not because they lack value, but because they lack presence in the digital spaces young people live in. At the same time, heritage institutions struggle to preserve and promote these experiences using modern tools. AR and MR are largely underused in this space, and we believe they’re the key to bringing culture back to life in a form that’s immersive, relevant, and unforgettable.",
+
+  "What technological methods can we use?": 
+  "We use immersive technologies like Augmented and Mixed Reality to overlay cultural narratives onto the real world. We deploy AI-powered digital humans to guide, teach, and engage users through natural conversation and expression. We design gamified and mobile-first experiences to ensure accessibility, and tailor them to youth and tourists alike—because culture should be something you experience, not just observe.",
+  
+  "What solutions have we developed?": 
+  "We've developed three immersive solutions that reimagine how culture is preserved and experienced. SaqAR is a gesture-based Mixed Reality simulation that recreates traditional falconry hunting with spatial mapping and dynamic virtual prey. DeepSona brings to life emotionally intelligent AI personas—each with unique expressions, voices, and cultural backgrounds—to serve as natural-language guides, trainers, or companions. IrthVerse is a photorealistic, Mixed Reality museum experience, featuring 3D artifacts, interactive storytelling, and multilingual AI guides—all fully customizable and accessible from anywhere, at any time.",
+
+  "Can you tell us more about SaqAR?": 
+  "SaqAR takes you into the world of traditional falconry—not as a spectator, but as a participant. Through real-time spatial mapping and gesture control, users interact with a virtual falcon that flies, responds, and hunts within an immersive natural environment. It’s not just a simulation; it’s an interactive cultural experience that brings centuries-old practices into the future of learning and tourism.",
+
+  "Can you tell us more about DeepSona?": 
+  "DeepSona is our framework for creating truly lifelike AI personas. These digital humans don't just speak—they emote, react, and connect. Each one has a distinctive personality, backstory, and communication style, enabling them to guide users through museums, teach languages, deliver training, or simply hold natural conversations. They bridge the emotional gap between machine and human in a way that feels intuitive and deeply personal.",
+
+  "Can you tell us more about IrthVerse?": 
+  "IrthVerse transforms museums into immersive digital worlds. Visitors can explore photorealistic 3D exhibits, watch interactive videos, and receive guided tours from multilingual AI avatars—all from their mobile device. Whether on-site or remote, IrthVerse expands cultural access beyond walls and borders, making heritage continuously available, visually stunning, and deeply interactive.",
+
+  "Can you help us conclude this presentation?": 
+  "Our immersive AR and MR experiences are more than just simulations—they're a cultural bridge. They connect the digital generation and tourists with the depth of tradition, transforming heritage from something observed into something lived. Through experiences like SaqAR, DeepSona, and IrthVerse, we’re not only preserving Qatari culture—we’re amplifying it, making it accessible, emotional, and unforgettable. This is how tradition evolves: not by standing still, but by stepping boldly into the future."
+,
+  "ما هي المشكلات التي نحاول حلّها؟": 
+  "نواجه فجوة متزايدة بين الجيل الرقمي والموروث الثقافي. فممارسات مثل الصقارة، والخط العربي، والسرد الشفهي بدأت تتلاشى، لا لقلّة قيمتها، بل لغيابها عن الفضاءات الرقمية التي يعيش فيها الشباب. كما تعاني المؤسسات التراثية من صعوبة في توثيق هذه التجارب والترويج لها بأدوات حديثة. تقنيات الواقع المعزز (آر) والواقع المختلط (إم آر) لا تزال غير مُستغلة بالشكل الكافي، ونحن نؤمن بأنها السبيل لإحياء التراث بطريقة غامرة، معاصرة، ولا تُنسى.",
+
+  "ما هي الأساليب التقنية التي نستخدمها؟": 
+  "نستخدم تقنيات الواقع المعزز (آر) والواقع المختلط (إم آر) لدمج القصص الثقافية في العالم الحقيقي. ونطوّر شخصيات رقمية تعتمد على الذكاء الاصطناعي للتوجيه والتفاعل مع المستخدم من خلال حوار طبيعي وتعبيرات واقعية. كما نصمّم تجارب تعليمية مُحوسبة ومبنية على التفاعل، قابلة للوصول من خلال الأجهزة المحمولة، ومصمّمة خصيصاً لتناسب اهتمامات الشباب والزوار.",
+
+  "ما هي الحلول التي طورناها؟": 
+  "قمنا بتطوير ثلاث تجارب تفاعلية تُعيد تعريف كيفية حفظ التراث وتجسيده. 'صقر' هي محاكاة تفاعلية تعتمد على الواقع المختلط تُعيد إحياء الصقارة التقليدية باستخدام التتبع المكاني والفريسة الافتراضية المتحركة. 'ديب سونا' هي منظومة لبناء شخصيات رقمية ذكية تعبّر وتتفاعل بشكل واقعي، وتتميز بملامح صوتية، وشخصيات، وخلفيات ثقافية متنوعة. 'إرث ڤيرس' هو متحف رقمي واقعي يقدم محتوى ثلاثي الأبعاد، وسرداً تفاعلياً، ومرشدين آليين متعددين اللغات—ويمكن الوصول إليه من أي مكان وفي أي وقت.",
+
+  "هل يمكنكم إخبارنا بالمزيد عن صقر؟": 
+  "'صقر' يأخذك في تجربة حية لممارسة الصقارة التراثية، لا كمُشاهد بل كمُشارك. من خلال تتبع الحركات في الفضاء الحقيقي، يمكن للمستخدم توجيه صقر افتراضي يحلّق ويصطاد ضمن بيئة طبيعية غامرة. إنها أكثر من مجرد محاكاة—إنها تجربة تعليمية حقيقية تُعيد الحياة لتقاليد عمرها قرون باستخدام أدوات المستقبل.",
+
+  "هل يمكنكم إخبارنا بالمزيد عن ديب سونا؟": 
+  "'ديب سونا' هو نظام لبناء شخصيات رقمية ناطقة تحاكي الإنسان في تواصله وانفعالاته. كل شخصية تمتلك هوية فريدة وخلفية ثقافية، وتتفاعل مع المستخدمين بشكل طبيعي صوتاً وتعبيراً. سواء كانت مرشدة في متحف أو مُدرّبة لغوية أو رفيقة افتراضية، تخلق 'ديب سونا' علاقات حقيقية بين الإنسان والتقنية.",
+
+  "هل يمكنكم إخبارنا بالمزيد عن إرث ڤيرس؟": 
+  "'إرث ڤيرس' يُحوّل المتاحف إلى عوالم رقمية واقعية يمكن استكشافها بصرياً وسمعياً. يمكن للزائر مشاهدة معروضات ثلاثية الأبعاد، والاستماع إلى فيديوهات تفاعلية، والحصول على جولات موجهة من شخصيات ذكية ناطقة بلغات متعددة—وكل ذلك من خلال الهاتف المحمول أو الأجهزة القابلة للارتداء. التجربة متاحة من أي مكان، في أي وقت، وبصورة مخصصة ومبهرة.",
+
+  "هل يمكنكم مساعدتنا في ختام هذا العرض؟": 
+  "ما نقدّمه ليس مجرد تجارب رقمية—بل هو جسر تواصلي بين الماضي والمستقبل. نحن نربط الجيل الرقمي والزوار من مختلف أنحاء العالم بجوهر الموروث الثقافي من خلال تقنيات 'آر' و'إم آر'. من خلال 'صقر'، و'ديب سونا'، و'إرث ڤيرس'، لا نُحيي الثقافة فقط، بل نُعيد تقديمها بطريقة حديثة، تفاعلية، وإنسانية. هكذا نُبقي على التراث حياً—لا بالصمت، بل بالتفاعل والدهشة والتجربة."
+}
+
+
