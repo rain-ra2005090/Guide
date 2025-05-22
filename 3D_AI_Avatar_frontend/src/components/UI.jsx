@@ -46,6 +46,11 @@ export const UI = ({ hidden, ...props }) => {
     pronunciation_score: 0,
     vocabulary_score: 0,
   });
+<select onChange={(e) => setSttLang(e.target.value)} defaultValue="auto">
+  <option value="auto">Auto (English default)</option>
+  <option value="en-US">English</option>
+  <option value="ar-SA">Arabic</option>
+</select>
 
   // Send message to chat
   const sendMessage = () => {

@@ -9,7 +9,7 @@
   "We've developed three immersive solutions that reimagine how culture is preserved and experienced. SaqAR is a gesture-based Mixed Reality simulation that recreates traditional falconry hunting with spatial mapping and dynamic virtual prey. DeepSona brings to life emotionally intelligent AI personas—each with unique expressions, voices, and cultural backgrounds—to serve as natural-language guides, trainers, or companions. IrthVerse is a photorealistic, Mixed Reality museum experience, featuring 3D artifacts, interactive storytelling, and multilingual AI guides—all fully customizable and accessible from anywhere, at any time.",
 
   "Can you tell us more about SaqAR?": 
-  "SaqAR takes you into the world of traditional falconry—not as a spectator, but as a participant. Through real-time spatial mapping and gesture control, users interact with a virtual falcon that flies, responds, and hunts within an immersive natural environment. It’s not just a simulation; it’s an interactive cultural experience that brings centuries-old practices into the future of learning and tourism.",
+  "SaqAR takes you into the world of traditional falconry in mixed Reality as a spectator, but as a participant. Through real-time spatial mapping and gesture control, users interact with a virtual falcon that flies, responds, and hunts within an immersive natural environment. It’s not just a simulation; it’s an interactive cultural experience that brings centuries-old practices into the future of learning and tourism.",
 
   "Can you tell us more about DeepSona?": 
   "DeepSona is our framework for creating truly lifelike AI personas. These digital humans don't just speak—they emote, react, and connect. Each one has a distinctive personality, backstory, and communication style, enabling them to guide users through museums, teach languages, deliver training, or simply hold natural conversations. They bridge the emotional gap between machine and human in a way that feels intuitive and deeply personal.",
@@ -27,10 +27,10 @@
   "نستخدم تقنيات الواقع المعزز (آر) والواقع المختلط (إم آر) لدمج القصص الثقافية في العالم الحقيقي. ونطوّر شخصيات رقمية تعتمد على الذكاء الاصطناعي للتوجيه والتفاعل مع المستخدم من خلال حوار طبيعي وتعبيرات واقعية. كما نصمّم تجارب تعليمية مُحوسبة ومبنية على التفاعل، قابلة للوصول من خلال الأجهزة المحمولة، ومصمّمة خصيصاً لتناسب اهتمامات الشباب والزوار.",
 
   "ما هي الحلول التي طورناها؟": 
-  "قمنا بتطوير ثلاث تجارب تفاعلية تُعيد تعريف كيفية حفظ التراث وتجسيده. 'صقر' هي محاكاة تفاعلية تعتمد على الواقع المختلط تُعيد إحياء الصقارة التقليدية باستخدام التتبع المكاني والفريسة الافتراضية المتحركة. 'ديب سونا' هي منظومة لبناء شخصيات رقمية ذكية تعبّر وتتفاعل بشكل واقعي، وتتميز بملامح صوتية، وشخصيات، وخلفيات ثقافية متنوعة. 'إرث ڤيرس' هو متحف رقمي واقعي يقدم محتوى ثلاثي الأبعاد، وسرداً تفاعلياً، ومرشدين آليين متعددين اللغات—ويمكن الوصول إليه من أي مكان وفي أي وقت.",
+  "قمنا بتطوير ثلاث تجارب تفاعلية تُعيد تعريف كيفية حفظ التراث وتجسيده. 'صقار' هي محاكاة تفاعلية تعتمد على الواقع المختلط تُعيد إحياء الصقارة التقليدية باستخدام التتبع المكاني والفريسة الافتراضية المتحركة. 'ديب سونا' هي منظومة لبناء شخصيات رقمية ذكية تعبّر وتتفاعل بشكل واقعي، وتتميز بملامح صوتية، وشخصيات، وخلفيات ثقافية متنوعة. 'إرث ڤيرس' هو متحف رقمي واقعي يقدم محتوى ثلاثي الأبعاد، وسرداً تفاعلياً، ومرشدين آليين متعددين اللغات—ويمكن الوصول إليه من أي مكان وفي أي وقت.",
 
-  "هل يمكنكم إخبارنا بالمزيد عن صقر؟": 
-  "'صقر' يأخذك في تجربة حية لممارسة الصقارة التراثية، لا كمُشاهد بل كمُشارك. من خلال تتبع الحركات في الفضاء الحقيقي، يمكن للمستخدم توجيه صقر افتراضي يحلّق ويصطاد ضمن بيئة طبيعية غامرة. إنها أكثر من مجرد محاكاة—إنها تجربة تعليمية حقيقية تُعيد الحياة لتقاليد عمرها قرون باستخدام أدوات المستقبل.",
+  "هل يمكنكم إخبارنا بالمزيد عن صقار؟": 
+  "'صقار' بالواقع المعزز يأخذك في تجربة حية لممارسة الصقارة التراثية، لا كمُشاهد بل كمُشارك. من خلال تتبع الحركات في الفضاء الحقيقي، يمكن للمستخدم توجيه صقر افتراضي يحلّق ويصطاد ضمن بيئة طبيعية غامرة. إنها أكثر من مجرد محاكاة—إنها تجربة تعليمية حقيقية تُعيد الحياة لتقاليد عمرها قرون باستخدام أدوات المستقبل.",
 
   "هل يمكنكم إخبارنا بالمزيد عن ديب سونا؟": 
   "'ديب سونا' هو نظام لبناء شخصيات رقمية ناطقة تحاكي الإنسان في تواصله وانفعالاته. كل شخصية تمتلك هوية فريدة وخلفية ثقافية، وتتفاعل مع المستخدمين بشكل طبيعي صوتاً وتعبيراً. سواء كانت مرشدة في متحف أو مُدرّبة لغوية أو رفيقة افتراضية، تخلق 'ديب سونا' علاقات حقيقية بين الإنسان والتقنية.",

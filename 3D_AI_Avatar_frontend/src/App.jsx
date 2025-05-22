@@ -56,7 +56,7 @@ function HomeExperience() {
       case "English":
         return "rami";
       default:
-        return "rami";
+        return "lolwa";
     }
   };
   
