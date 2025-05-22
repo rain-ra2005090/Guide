@@ -8,7 +8,7 @@ output_file = sys.argv[2]
 character = sys.argv[3].lower()
 
 # Load ElevenLabs API key from ENV or fallback
-api_key = os.getenv("ELEVEN_API_KEY") or "sk_60f2903d3891d331f36e818b7fbb60e78c883a71c130e372"
+api_key = os.getenv("ELEVEN_API_KEY") or "sk_c3b3e1d611b25faa3fc0352c2354ebbd32f9cae4f977e852"
 if not api_key:
     print("ERROR: ElevenLabs API key not found.")
     sys.exit(1)
