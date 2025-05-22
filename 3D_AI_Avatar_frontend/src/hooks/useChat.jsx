@@ -94,22 +94,44 @@ recognition.lang = langMap[character?.toLowerCase()] || "en-US";
       setMessage(null);
     }
   }, [messages]);
+useEffect(() => {
+  if (messages.length > 0) {
+    setMessage(messages[0]);
+  } else {
+    setMessage(null);
+  }
+}, [messages]);
 
-  return (
-    <ChatContext.Provider
-      value={{
-        chat,
-        message,
-        onMessagePlayed,
-        loading,
-        cameraZoomed,
-        setCameraZoomed,
-        startListening,
-      }}
-    >
-      {children}
-    </ChatContext.Provider>
-  );
+useEffect(() => {
+  const handleKeyDown = (event) => {
+    if (event.code === "Space" && !loading) {
+      event.preventDefault();
+      startListening();
+    }
+  };
+
+  window.addEventListener("keydown", handleKeyDown);
+  return () => {
+    window.removeEventListener("keydown", handleKeyDown);
+  };
+}, [loading, character]);
+
+return (
+  <ChatContext.Provider
+    value={{
+      chat,
+      message,
+      onMessagePlayed,
+      loading,
+      cameraZoomed,
+      setCameraZoomed,
+      startListening,
+    }}
+  >
+    {children}
+  </ChatContext.Provider>
+);
+
 };
 
 export const useChat = () => {

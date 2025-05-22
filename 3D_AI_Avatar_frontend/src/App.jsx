@@ -126,16 +126,27 @@ function HomeExperience() {
         </button>
       </div>
 
- <Canvas
-  key={experienceVersion}
-  shadows
-  camera={{ position: [0, 0, 1], fov: 30 }}
-  style={{ backgroundColor: "#00ff00" }} // bright green screen
-  gl={{ preserveDrawingBuffer: true }}   // optional: helps with screenshots
+<div
+  style={{
+    width: "100vw",
+    height: "100vh",
+    backgroundImage: "url('src/components/a.png')", // make sure this file exists in /public/backgrounds/
+    backgroundSize: "cover",
+    backgroundPosition: "center",
+    backgroundRepeat: "no-repeat",
+    position: "relative",
+  }}
 >
-
-  {ExperienceComponent()}
-</Canvas>
+  <Canvas
+    key={experienceVersion}
+    shadows
+    camera={{ position: [0, 0, 1], fov: 30 }}
+    gl={{ preserveDrawingBuffer: true }}
+    style={{ backgroundColor: "transparent" }}
+  >
+    {ExperienceComponent()}
+  </Canvas>
+</div>
 
     </ChatProvider>
   );
